@@ -19,3 +19,7 @@ We will do the following steps in order:
 4.Train the network on the training data
 
 5.Test the network on the test data
+
+<h1>Pytorch_start.ipynb<\h1>
+
+The jupyter notebook of the demo is here!
