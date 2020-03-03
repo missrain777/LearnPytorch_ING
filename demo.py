@@ -92,6 +92,7 @@ def Test():
 
 
 if __name__ == "__main__":
-    #epochs = 5
+    #If you have trained your net,you won't need to train the net again.
+    #epochs = 10
     #train(epochs)
     Test()
