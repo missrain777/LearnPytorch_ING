@@ -2,7 +2,7 @@
 Hello!This is sean's GitHub website.And this repository recorded the process in which I learned Pytorch.
 All these I learned can be found in <a href="https://github.com/fendouai/PyTorchDocs">PyTorchDocs</a>.
 
-<h1 herf="https://github.com/missrain777/LearnPytorch_ING/blob/master/demo.py">demo.py</h1>
+<h1 herf="https://github.com/missrain777/LearnPytorch_ING/blob/master/demo.py">PyTorch_start.py</h1>
 
 The Python file is a demo,which contains a convolutional neural network for image classification.You will see how to define neural networks, compute loss and make updates to the weights of the network.
 
@@ -22,4 +22,4 @@ We will do the following steps in order:
 
 <h1>Pytorch_start.ipynb</h1>
 
-The jupyter notebook of the demo is here!
+The jupyter notebook of the demo is here!Besides a simple CNN demo,the notebook includes also some examples of tensor and autugrad.
